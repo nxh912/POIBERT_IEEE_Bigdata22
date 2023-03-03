@@ -10,4 +10,24 @@ Accepted to the 2022 IEEE International Conference on Big Data (BigData2022)
 
 Paper: [https://arxiv.org/abs/2212.13900]
 
+Citing POI-BERT
+Please cite the following papers:
+```
+@inproceedings {10020467,
+  author = {N. Ho and K. Hui Lim},
+  booktitle = {2022 IEEE International Conference on Big Data (Big Data)},
+  title = {POIBERT: A Transformer-based Model for the Tour Recommendation Problem},
+  year = {2022},
+  volume = {},
+  issn = {},
+  pages = {5925-5933},
+  keywords = {adaptation models;urban areas;bit error rate;predictive models;prediction algorithms;natural language processing;iterative algorithms},
+  doi = {10.1109/BigData55660.2022.10020467},
+  url = {https://doi.ieeecomputersociety.org/10.1109/BigData55660.2022.10020467},
+  publisher = {IEEE Computer Society},
+  address = {Los Alamitos, CA, USA},
+  month = {dec}
+}
+```
+
 Source code: [https://github.com/nxh912/POIBERT_IEEE_Bigdata22]
