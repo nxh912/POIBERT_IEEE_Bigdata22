@@ -1,6 +1,14 @@
 # POIBERT: A Transformer-based Model for the Tour Recommendation Problem
 ### Ngai Lam Ho, Kwan Hui Lim
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-BV7ZH9EX4G"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
 
+  gtag('config', 'G-BV7ZH9EX4G');
+</script>
 
 Tour itinerary planning and recommendation are challenging problems for tourists visiting unfamiliar cities. Many tour recommendation algorithms only consider factors such as the location and popularity of Points of Interest (POIs) but their solutions may not align well with the user's own preferences and other location constraints. Additionally, these solutions do not take into consideration of the users' preference based on their past POIs selection. In this paper, we propose POIBERT, an algorithm for recommending personalized itineraries using the BERT language model on POIs. POIBERT builds upon the highly successful BERT language model with the novel adaptation of a language model to our itinerary recommendation task, alongside an iterative approach to generate consecutive POIs.
 
@@ -31,12 +39,3 @@ Please cite the following papers:
 ```
 
 Source code: [https://github.com/nxh912/POIBERT_IEEE_Bigdata22]
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-BV7ZH9EX4G"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-BV7ZH9EX4G');
-</script>
