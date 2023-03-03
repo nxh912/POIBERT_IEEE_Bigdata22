@@ -31,3 +31,15 @@ Please cite the following papers:
 ```
 
 Source code: [https://github.com/nxh912/POIBERT_IEEE_Bigdata22]
+
+<html>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-BV7ZH9EX4G"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-BV7ZH9EX4G');
+</script>
+</html>
