@@ -31,8 +31,6 @@ Please cite the following papers:
 ```
 
 Source code: [https://github.com/nxh912/POIBERT_IEEE_Bigdata22]
-
-<html>
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-BV7ZH9EX4G"></script>
 <script>
@@ -42,4 +40,3 @@ Source code: [https://github.com/nxh912/POIBERT_IEEE_Bigdata22]
 
   gtag('config', 'G-BV7ZH9EX4G');
 </script>
-</html>
