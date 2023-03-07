@@ -15,7 +15,7 @@ Our recommendation algorithm is able to generate a sequence of POIs that optimiz
 
 Accepted to the 2022 IEEE International Conference on Big Data (BigData2022)
 
-Paper: [https://arxiv.org/abs/2212.13900]
+Paper: [https://arxiv.org/abs/2212.13900](https://arxiv.org/abs/2212.13900)
 
 Citing POI-BERT
 Please cite the following papers:
